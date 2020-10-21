@@ -1,1 +1,2 @@
 # ParabolicDoubleCosets
+This GitHub repository provides code and data for the paper "Counting Parabolic Double Cosets in Symmetric Groups." The Java source code for the two versions of the program can be found in the src folder. The values of p_n for n<=5000 can be found in the file data5000.txt
